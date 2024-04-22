@@ -33,6 +33,3 @@ for (folder_iter in folders){
   
   output_df_list[[length(output_df_list)+1]] <- folder_dataframe
 }
-17m
-
-
